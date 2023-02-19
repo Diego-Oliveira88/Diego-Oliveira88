@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem vindo! 😃
 
-<!--
-**Diego-Oliveira88/Diego-Oliveira88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Diego, estou sempre procurando evoluir na área de tecnologia, atualmente estou cursando desenvolvimento de softwares com foco em **backend** na [Cubos Academy](https://cubos.academy/), estou em busca de novos desafios e uma oportunidade para ingressar na carreira de tecnologia.
 
-Here are some ideas to get you started:
+### Para me encontrar:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/diego-lima-oliveira-06711a250)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hards Skills:
+![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Grafico](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Oliveira88&layout=compact&theme=radical&custom_title=Linguagens%20%mais%20%utilizadas)]
